@@ -1,7 +1,7 @@
 # File-sharing-Bot
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links and they have to genrate token each in 24 hour . 
-If You wnt any help reach me out on telegram Onekayyum(t.me/onekayyum). 
+If You wnt any help reach me out on telegram [Onekayyum](t.me/onekayyum). 
 
 ##
 
@@ -18,8 +18,8 @@ If You wnt any help reach me out on telegram Onekayyum(t.me/onekayyum).
 - Tokne needed to be Generate after every 24hour
 
 # Note 
-- before deploying make a url shortener account on Publicearn.com(https://publicearn.com/ref/kayyumkhan).
-this repo only support Publicearn.com(https://publicearn.com/ref/kayyumkhan) shortener . We are Enhancing it to support other shorteners too.
+- before deploying make a url shortener account on [Publicearn.com](https://publicearn.com/ref/kayyumkhan).
+this repo only support [Publicearn.com](https://publicearn.com/ref/kayyumkhan) shortener . We are Enhancing it to support other shorteners too.
 
 ### Setup
 
